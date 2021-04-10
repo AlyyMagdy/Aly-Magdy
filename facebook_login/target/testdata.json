@@ -1,0 +1,32 @@
+[
+	{
+		"email": "john_badjluo_doe@tfbnw.net",
+		"password": "Welcome@01",
+		"validUser": true
+	},
+	{
+		"email": "john_badjluo_doe@tfbnw.net",
+		"password": "WrongPassword",
+		"validUser": false
+	},
+	{
+		"email": "john_doe@tfbnw.net",
+		"password": "Welcome@01",
+		"validUser": false
+	},
+	{
+		"email": "",
+		"password": "",
+		"validUser": false
+	},
+	{
+		"email": "",
+		"password": "Welcome@01",
+		"validUser": false
+	},
+	{
+		"email": "john_badjluo_doe@tfbnw.net",
+		"password": "",
+		"validUser": false
+	}
+]
